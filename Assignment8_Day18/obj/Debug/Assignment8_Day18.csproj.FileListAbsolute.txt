@@ -1,0 +1,7 @@
+C:\Users\Vinay\Desktop\Simplilearn\Phase 2\Day8\Assignment Day8\Assignment8_Day18\Assignment8_Day18\bin\Debug\Assignment8_Day18.exe.config
+C:\Users\Vinay\Desktop\Simplilearn\Phase 2\Day8\Assignment Day8\Assignment8_Day18\Assignment8_Day18\bin\Debug\Assignment8_Day18.exe
+C:\Users\Vinay\Desktop\Simplilearn\Phase 2\Day8\Assignment Day8\Assignment8_Day18\Assignment8_Day18\bin\Debug\Assignment8_Day18.pdb
+C:\Users\Vinay\Desktop\Simplilearn\Phase 2\Day8\Assignment Day8\Assignment8_Day18\Assignment8_Day18\obj\Debug\Assignment8_Day18.csproj.AssemblyReference.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase 2\Day8\Assignment Day8\Assignment8_Day18\Assignment8_Day18\obj\Debug\Assignment8_Day18.csproj.CoreCompileInputs.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase 2\Day8\Assignment Day8\Assignment8_Day18\Assignment8_Day18\obj\Debug\Assignment8_Day18.exe
+C:\Users\Vinay\Desktop\Simplilearn\Phase 2\Day8\Assignment Day8\Assignment8_Day18\Assignment8_Day18\obj\Debug\Assignment8_Day18.pdb
